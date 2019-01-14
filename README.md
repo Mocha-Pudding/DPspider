@@ -383,7 +383,7 @@ comment_kinds = store.comment_kinds
 review_tags = store.review_tags
 ```
 > 返回结果 :
-```json
+```text
 '满福楼'
 '50'
 '朝阳门外大街8号蓝岛大厦东区六层(东大桥铁站D2出口)''
